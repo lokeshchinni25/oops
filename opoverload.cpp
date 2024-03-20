@@ -6,8 +6,8 @@ class OpOl{
 using namespace std;
 class add{
     public:
-        int a=10;
-    add() : a(10){}
+        int a=122;
+    add() : a(122){}
     void operator ++(){
         ++a;
     }
